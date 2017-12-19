@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/connorrhodes/liri-node-app/issues"
   },
-  "homepage": "https://github.com/connorrhodes/liri-node-app#readme"
+  "homepage": "https://github.com/connorrhodes/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
